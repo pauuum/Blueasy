@@ -1,0 +1,2 @@
+# Blueasy
+Blueasy, primera práctica.
